@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="TVRI SPORT FHD" group-title="IPTV" tvg-logo="https://imgur.com/l0kZMOX.png", TVRI DIGITAL
 https://tvri.cob.web.id/hls3-lo/index.m3u8
 
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-logo="https://wikimedia.org" group-title="Nasional",TVRI Nasional
+https://tvri.go.id
+
 #EXTINF:-1 tvg-id="TransTV 1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="IPTV", TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
