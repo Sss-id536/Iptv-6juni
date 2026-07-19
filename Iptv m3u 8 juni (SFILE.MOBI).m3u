@@ -14,8 +14,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-id="TVRIWorld.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/2560px-TVRI-World.svg.png",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVRINasional.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRI SPORT FHD" group-title="INDONESIA" tvg-logo="https://imgur.com/l0kZMOX.png", TVRI DIGITAL SD
+https://pildun.cob.web.id/hls3-lo/index.m3u8
+https://shorter.me/i27Hv
+
+#EXTINF:-1 tvg-id="TVRI SPORT FHD" group-title="INDONESIA" tvg-logo="https://imgur.com/l0kZMOX.png", TVRI SPORTS DIGITAL SD
+https://tvri.cob.web.id/hls3-lo/index.m3u8
+https://shorter.me/i27Hv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" group-title="INDONESIA", Trans TV 
 #EXTVLCOPT:http-origin=https://20.detik.com/
