@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="TVRI SPORT FHD" group-title="IPTV" tvg-logo="https://imgur.com/l0kZMOX.png", TVRI DIGITAL
 https://tvri.cob.web.id/hls3-lo/index.m3u8
 
-#EXTINF:-1 tvg-id="TransTV 1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="ENTERTAINMENT & LIFESTYLE", TRANS TV
+#EXTINF:-1 tvg-id="TransTV 1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/trans-tv-id.png?raw=true" group-title="IPTV", TRANS TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
