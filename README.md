@@ -1,7 +1,1 @@
-# Iptv-6juni
-Link iptv terbaru 2026 juni
-link:
-https://nlink.at/esU2
-(raw) belum di fix tapi masih ada channel normal
-https://nlink.at/WT8U
-(fixed )
+Hello, it's been a long time since I opened github, I'm back with a special IPTV for Indonesia, actually there will be many additional channels but I think this is enough, but don't worry, I... but adding channels like music tv, muslim tv, etc., so if you feel something is strange, try refreshing and see the channel list, okay, see ya
