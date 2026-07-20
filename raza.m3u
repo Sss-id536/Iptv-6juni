@@ -50,3 +50,12 @@ http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350997
 
 #EXTINF: -1 tvg-id="indosiar.id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/indosiar-id.png?raw=true" group-title="IPTV", INDOSIAR
 http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/tv-one-id.png?raw=true" group-title="IPTV", TVONE
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
